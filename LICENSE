@@ -1,0 +1,43 @@
+# Algorithms and Data Structures (ID1021)
+
+This repository contains my coursework for **ID1021 - Algorithms and Data Structures**, a course I completed at KTH Royal Institute of Technology.
+
+## 📚 About the course
+The course covers fundamental algorithms and data structures, with an emphasis on both theoretical analysis and practical implementation. Topics include:
+
+- Basic data structures (lists, stacks, queues, trees, graphs)
+- Algorithm design and analysis (time & space complexity, Big O)
+- Searching and sorting algorithms
+- Graph algorithms (BFS, DFS, shortest path)
+- Recursive algorithms and problem solving
+- Complexity theory basics
+
+Official course page: [ID1021 at KTH](https://www.kth.se/student/kurser/kurs/ID1021?l=en)
+
+## 📂 Contents
+This repository contains:
+
+- 📄 **PDF reports** — documenting problem-solving approaches, algorithm analysis, and implementation details.
+- ✍️ Written explanations of algorithmic concepts and examples.
+- (Optional: if you have code) 💻 Code samples demonstrating the algorithms and data structures studied.
+
+## 🛠 Tools & languages
+Primarily written work and algorithm pseudocode. Some examples (if included) are implemented in:
+
+- Python
+- Java
+- or other languages as applicable.
+
+## 🚀 Purpose
+This repository serves as:
+
+- A portfolio of my understanding and work in algorithms & data structures.
+- A reference for future studies or projects involving algorithmic problem solving.
+
+## 📬 Contact
+If you're interested in discussing algorithms or similar projects, feel free to connect!
+
+## 📝 License
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+---
